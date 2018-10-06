@@ -2,6 +2,8 @@ Dentro del proyecto instalar:
 
 npm install --save @ng-select/ng-select
 
+https://stackblitz.com/edit/ng-select-angular6?file=.angular-cli.json
+
 # Prueba2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
